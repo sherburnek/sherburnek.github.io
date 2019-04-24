@@ -5,4 +5,5 @@ $(document).ready(function() { /// Wait till page is loaded
     console.log("The image div reloaded.")
     });
     }
-    }); //// End of Wait till page is loaded
+    });
+    
