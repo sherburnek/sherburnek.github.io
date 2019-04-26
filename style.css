@@ -1,10 +1,12 @@
 img.mosaic{
-    width: 100%;
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
 }
-body{
+/* body{
     background: url('https://sjabr.sharepoint.com/sites/GalaMosaic/Shared%20Documents/Mosaic-Master.jpg') no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-}
+}*/
