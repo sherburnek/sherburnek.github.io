@@ -3,6 +3,11 @@ img.mosaic{
     height: auto;
     width: auto\9; /* ie8 */
 }
+#img-container{
+    max-width: 100%;
+    height: auto;
+}
+
 /* body{
     background: url('https://sjabr.sharepoint.com/sites/GalaMosaic/Shared%20Documents/Mosaic-Master.jpg') no-repeat center;
     -webkit-background-size: cover;
