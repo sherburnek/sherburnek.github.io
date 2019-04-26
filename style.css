@@ -2,5 +2,9 @@ img.mosaic{
     width: 100%;
 }
 #img-container{
-    width: 100%;
+    background: url('https://sjabr.sharepoint.com/sites/GalaMosaic/Shared%20Documents/Mosaic-Master.jpg') no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
