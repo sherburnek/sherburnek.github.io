@@ -4,7 +4,7 @@ img.mosaic{
     width: auto\9; /* ie8 */
 }
 #img-container{
-    max-width: 100%;
+    width: auto;
     height: 100%;
     text-align: center;
 }
