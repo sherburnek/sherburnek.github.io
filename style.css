@@ -1,5 +1,5 @@
 img.mosaic{
-    max-width: 100%;
+    width: auto;
     height: 100%;
     width: auto\9; /* ie8 */
 }
