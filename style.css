@@ -1,7 +1,7 @@
 img.mosaic{
     width: auto;
     height: 100%;
-    max-height: 100vh;/* ie8 */
+    max-height: 95vh;/* ie8 */
 }
 #img-container{
     width: auto;
